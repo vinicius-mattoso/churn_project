@@ -2,8 +2,6 @@
 ![alt text](../image/Costumer_detection.jpg)
 * Autores:
     - Vinicius Mattoso
-    - Eduardo Maia
-    - Lucas Regis
 
 ## Contextualização do problema
 
