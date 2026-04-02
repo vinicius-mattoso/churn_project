@@ -1,11 +1,128 @@
-# Relatório de diagnóstico do churn de cliente
+
 ![alt text](../image/Costumer_detection.jpg)
-* Autores:
-    - Vinicius Mattoso
 
-## Contextualização do problema
+---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam turpis odio, rhoncus sed enim ac, commodo finibus risus. Sed at justo tortor. Donec vehicula lacus nec mi sodales eleifend vitae et nunc. Phasellus vel eros sed augue aliquet tempor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vivamus vel dui sapien. Vestibulum velit arcu, finibus quis ligula eu, scelerisque ultricies risus. Sed rutrum auctor lorem vel suscipit. Cras id laoreet odio, dictum fringilla elit. Nunc at sapien ac turpis aliquet ultricies quis id orci. Cras euismod erat non felis posuere varius. Sed posuere tempor mauris sed ornare. Praesent libero nulla, tempus non nisi vel, commodo interdum nisl. Morbi dapibus turpis est, in lacinia mi aliquet non. Donec ac lacus vel leo finibus vestibulum. Donec maximus dignissim lacinia.
+## 🇺🇸 English Version
 
-## Análise exploratória da base de dados
+## 📊 Objective
+
+Analyze customer behavior and identify patterns that lead to churn.
+
+---
+
+## 📁 Dataset
+
+Description of dataset:
+- Customer attributes
+- Service usage
+- Contract type
+- Billing information
+
+---
+
+## 🔍 Exploratory Data Analysis
+
+Key insights:
+
+- Distribution of churn vs non-churn  
+- Relationship between tenure and churn  
+- Impact of contract types  
+- Payment methods influence  
+
+---
+
+## 🧠 Feature Insights
+
+Important variables:
+
+- Tenure  
+- Monthly charges  
+- Contract type  
+- Customer support interactions  
+
+---
+
+## 🤖 Model
+
+Classification model used to predict churn.
+
+Evaluation metrics:
+
+- Accuracy  
+- Precision  
+- Recall  
+- F1-score  
+
+---
+
+## 📈 Results
+
+- Model successfully identifies high-risk customers  
+- Key drivers of churn identified  
+- Business insights extracted  
+
+---
+
+## 💼 Business Impact
+
+- Enables targeted retention strategies  
+- Supports marketing optimization  
+- Improves revenue forecasting  
+
+---
+
+## 🇧🇷 Versão em Português
+
+## 📊 Objetivo
+
+Analisar comportamento de clientes e identificar padrões de churn.
+
+---
+
+## 📁 Dados
+
+- Características dos clientes  
+- Uso de serviço  
+- Tipo de contrato  
+- Cobrança  
+
+---
+
+## 🔍 Análise Exploratória
+
+- Distribuição churn vs não churn  
+- Relação com tempo de contrato  
+- Impacto do tipo de contrato  
+- Forma de pagamento  
+
+---
+
+## 🧠 Insights
+
+- Tempo de cliente  
+- Valor mensal  
+- Tipo de contrato  
+
+---
+
+## 🤖 Modelo
+
+Modelo de classificação para prever churn.
+
+---
+
+## 📈 Resultados
+
+- Identificação de clientes de risco  
+- Insights relevantes  
+- Apoio à decisão  
+
+---
+
+## 💼 Impacto
+
+- Retenção de clientes  
+- Otimização de campanhas  
+- Melhor previsão de receita  
 
